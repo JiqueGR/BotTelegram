@@ -1,9 +1,9 @@
 import telebot
 from deep_translator import GoogleTranslator
 
-token = "6607933595:AAF_SB7_xAeRrJ2S60VyeuAf04ZMFU3Y430"
-idReceberMensagem = "-1002028683972"
-idEnviarMensagem = "-1001998584198"
+token = "YOUR_TOKEN_HERE"
+idReceberMensagem = "YOUR_GROUP_HERE"
+idEnviarMensagem = "YOUR_GROUP_HERE"
 bot = telebot.TeleBot(token)
 simboloRegistro = "\u00AE"
 
